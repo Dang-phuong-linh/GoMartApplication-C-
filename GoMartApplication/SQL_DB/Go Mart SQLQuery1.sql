@@ -9,7 +9,7 @@ AdminID nvarchar(50) primary key,
 FullName nvarchar(50)
 )
 
-insert into tblAdmin(AdminID, Password, FullName) VALUES('Admin', 'Admin', 'Dang Phuong Linh ^.^')
+insert into tblAdmin(AdminID, Password, FullName) VALUES('Admin', 'Admin', 'Admin')
 
 create table tblSeller
 (
